@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Blog</title>
+</head>
+<body style="font-family: Georgia, serif; margin: 20px; line-height: 1.6;">
+
+  <!-- Blog Header -->
+  <header style="text-align: center; margin-bottom: 30px;">
+    <h1>Welcome to My Blog</h1>
+    <p><em>Sharing my thoughts and experiences</em></p>
+    <hr>
+  </header>
+
+  <!-- First Blog Post -->
+  <article>
+    <h2>🌍 My First Blog Post</h2>
+    <p><small><em>Published on August 29, 2025</em></small></p>
+    <p>
+      This is my first blog post! I am learning HTML step by step and creating fun little projects. 
+      My goal is to become really good at web development.
+    </p>
+  </article>
+  <hr>
+
+  <!-- Second Blog Post -->
+  <article>
+    <h2>⛺ Camping Experience</h2>
+    <p><small><em>Published on August 20, 2025</em></small></p>
+    <p>
+      I recently went camping near the mountains. The night sky was full of stars, and we had so much fun 
+      sitting around the bonfire, eating marshmallows, and sharing stories.
+    </p>
+  </article>
+  <hr>
+
+  <!-- Third Blog Post -->
+  <article>
+    <h2>📚 Why I Love Reading</h2>
+    <p><small><em>Published on August 10, 2025</em></small></p>
+    <p>
+      Books open up new worlds! One of my favorite books is <strong>The Alchemist</strong>. It inspires me 
+      to follow my dreams and never give up.
+    </p>
+  </article>
+
+  <!-- Footer -->
+  <footer style="text-align: center; margin-top: 40px;">
+    <p>Made with ❤️ by Me</p>
+  </footer>
+
+</body>
+</html>
