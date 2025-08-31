@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Travel Destination - Paris</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 20px; background: #f5f5f5;">
+
+  <!-- Header -->
+  <header style="text-align: center; background: #4a90e2; color: white; padding: 20px; border-radius: 8px;">
+    <h1>Welcome to Paris 🇫🇷</h1>
+    <p>The City of Light ✨</p>
+  </header>
+
+  <!-- Introduction -->
+  <section style="margin: 30px 0;">
+    <h2>🌍 About Paris</h2>
+    <p>
+      Paris, the capital of France, is one of the most visited cities in the world. 
+      Known for its art, fashion, food, and culture, it offers a unique charm to travelers from across the globe.
+    </p>
+    <img src="https://via.placeholder.com/600x300" alt="Paris View" style="margin-top: 15px; border-radius: 10px;">
+  </section>
+
+  <!-- Highlights -->
+  <section style="background: #fff; padding: 20px; border-radius: 8px; margin-bottom: 30px;">
+    <h2>✨ Top Attractions</h2>
+    <ul>
+      <li>🗼 <strong>Eiffel Tower</strong> – Iconic symbol of Paris</li>
+      <li>🎨 <strong>Louvre Museum</strong> – Home of the Mona Lisa</li>
+      <li>⛪ <strong>Notre-Dame Cathedral</strong> – Gothic architecture masterpiece</li>
+      <li>🌳 <strong>Luxembourg Gardens</strong> – Beautiful green escape</li>
+    </ul>
+  </section>
+
+  <!-- Travel Info -->
+  <section style="margin: 30px 0;">
+    <h2>🛫 Travel Information</h2>
+    <p><strong>Best Time to Visit:</strong> April to June & September to November</p>
+    <p><strong>Currency:</strong> Euro (€)</p>
+    <p><strong>Language:</strong> French (but English is widely spoken)</p>
+    <p><strong>Transport:</strong> Metro, buses, and bicycles are the best way to move around the city.</p>
+  </section>
+
+  <!-- Closing -->
+  <footer style="text-align: center; background: #4a90e2; color: white; padding: 15px; border-radius: 8px;">
+    <p>Plan your trip to Paris and experience the magic! ✨</p>
+  </footer>
+
+</body>
+</html>
