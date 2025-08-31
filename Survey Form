@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Survey Form</title>
+</head>
+<body style="font-family: Arial; padding:30px;">
+
+  <h1>Feedback Survey</h1>
+  <form>
+    <label>1. What is your age?</label><br>
+    <input type="number" min="10" max="100"><br><br>
+
+    <label>2. Which services do you use?</label><br>
+    <input type="checkbox"> Web Development<br>
+    <input type="checkbox"> Mobile Apps<br>
+    <input type="checkbox"> Graphic Design<br><br>
+
+    <label>3. Rate our service:</label><br>
+    <input type="radio" name="rating"> Excellent
+    <input type="radio" name="rating"> Good
+    <input type="radio" name="rating"> Poor<br><br>
+
+    <button type="submit">Submit</button>
+  </form>
+
+</body>
+</html>
