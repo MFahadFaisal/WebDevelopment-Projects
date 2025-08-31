@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Landing Page</title>
+</head>
+<body style="font-family: Arial; margin:0;">
+
+  <!-- Header -->
+  <header style="background:#333; color:white; padding:20px; text-align:center;">
+    <h1>My Product</h1>
+    <p>The best solution for your needs</p>
+  </header>
+
+  <!-- Features -->
+  <section style="padding:20px; text-align:center;">
+    <h2>Why Choose Us?</h2>
+    <p>✔ High Quality</p>
+    <p>✔ Affordable Price</p>
+    <p>✔ Trusted by thousands</p>
+  </section>
+
+  <!-- Call to Action -->
+  <section style="background:#f4f4f4; padding:20px; text-align:center;">
+    <h2>Get Started Today!</h2>
+    <button style="padding:10px 20px; font-size:16px;">Buy Now</button>
+  </section>
+
+  <!-- Footer -->
+  <footer style="background:#333; color:white; text-align:center; padding:10px;">
+    <p>&copy; 2025 My Product</p>
+  </footer>
+
+</body>
+</html>
