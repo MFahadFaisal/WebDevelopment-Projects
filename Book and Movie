@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Favorite Movies & Books</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 20px;">
+
+  <!-- Page Title -->
+  <h1>My Favorite Movies & Books</h1>
+  <p>Here are some of my all-time favorite movies and books!</p>
+  <hr>
+
+  <!-- Movies Section -->
+  <section>
+    <h2>🎬 Favorite Movies</h2>
+    <ul>
+      <li>
+        <strong>Inception</strong> (2010)  
+        <br>
+        <em>Genre:</em> Sci-Fi / Thriller  
+        <br>
+        <img src="https://via.placeholder.com/150" alt="Inception Poster">
+      </li>
+      <br>
+      <li>
+        <strong>The Dark Knight</strong> (2008)  
+        <br>
+        <em>Genre:</em> Action / Crime  
+        <br>
+        <img src="https://via.placeholder.com/150" alt="Dark Knight Poster">
+      </li>
+      <br>
+      <li>
+        <strong>Interstellar</strong> (2014)  
+        <br>
+        <em>Genre:</em> Sci-Fi / Drama  
+        <br>
+        <img src="https://via.placeholder.com/150" alt="Interstellar Poster">
+      </li>
+    </ul>
+  </section>
+  <hr>
+
+  <!-- Books Section -->
+  <section>
+    <h2>📚 Favorite Books</h2>
+    <ol>
+      <li>
+        <strong>The Alchemist</strong> by Paulo Coelho  
+        <br>
+        <em>Genre:</em> Fiction / Adventure  
+        <br>
+        <img src="https://via.placeholder.com/120" alt="The Alchemist Book">
+      </li>
+      <br>
+      <li>
+        <strong>Atomic Habits</strong> by James Clear  
+        <br>
+        <em>Genre:</em> Self-help / Productivity  
+        <br>
+        <img src="https://via.placeholder.com/120" alt="Atomic Habits Book">
+      </li>
+      <br>
+      <li>
+        <strong>Harry Potter and the Sorcerer’s Stone</strong> by J.K. Rowling  
+        <br>
+        <em>Genre:</em> Fantasy / Adventure  
+        <br>
+        <img src="https://via.placeholder.com/120" alt="Harry Potter Book">
+      </li>
+    </ol>
+  </section>
+
+  <hr>
+  <footer style="text-align: center; margin-top: 20px;">
+    <p>Made with ❤️ using HTML</p>
+  </footer>
+
+</body>
+</html>
