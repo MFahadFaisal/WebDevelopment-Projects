@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Event Invitation</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 20px; text-align: center; background: #fdf6e3;">
+
+  <!-- Event Header -->
+  <header style="background: #ff6f61; color: white; padding: 20px; border-radius: 10px;">
+    <h1>🎉 You're Invited! 🎉</h1>
+    <p><strong>To a Special Celebration</strong></p>
+  </header>
+
+  <!-- Event Details -->
+  <section style="margin: 30px 0;">
+    <h2>🎂 Birthday Party</h2>
+    <p><strong>Hosted by:</strong> John Doe</p>
+    <p><strong>Date:</strong> September 15, 2025</p>
+    <p><strong>Time:</strong> 6:00 PM - 10:00 PM</p>
+    <p><strong>Location:</strong> Sunshine Banquet Hall, City Center</p>
+  </section>
+
+  <!-- Special Note -->
+  <section style="margin: 20px auto; max-width: 500px; background: #fff3cd; padding: 20px; border-radius: 8px;">
+    <h3>💌 Special Note</h3>
+    <p>
+      Come join us for an evening full of fun, laughter, and sweet memories!  
+      Don’t forget to bring your dancing shoes 💃🕺
+    </p>
+  </section>
+
+  <!-- RSVP Section -->
+  <section style="margin: 30px 0;">
+    <h3>📩 RSVP</h3>
+    <p>Please confirm your attendance by September 10.</p>
+    <p>Email: <a href="mailto:john@example.com">john@example.com</a></p>
+    <p>Phone: +123 456 789</p>
+  </section>
+
+  <!-- Footer -->
+  <footer style="margin-top: 40px; background: #ff6f61; color: white; padding: 10px; border-radius: 10px;">
+    <p>We can’t wait to celebrate with you! 🎊</p>
+  </footer>
+
+</body>
+</html>
